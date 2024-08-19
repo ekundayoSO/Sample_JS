@@ -1,0 +1,1 @@
+[![CI](https://github.com/ekundayoSO/sample_js_test/actions/workflows/test.yml/badge.svg)](https://github.com/ekundayoSO/sample_js_test/actions/workflows/test.yml)
